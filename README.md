@@ -5,9 +5,9 @@ Binary classification problem for 2-channel images of Electrons and Photons.
 
 ## Useful Links
 
-- **Project Folder:** [Complete collection of project files](https://github.com/sidhu2690/Project_CMS/tree/main/Task1)
-- **Ipynb Notebook:** [Code and analysis in a Jupyter Notebook](https://github.com/sidhu2690/Project_CMS/blob/main/Task1/electron-photon.ipynb)
-- **Model Weights:** [Model weights for replication and testing](https://github.com/sidhu2690/Project_CMS/blob/main/Task1/model_weights.weights.h5)
+- **Project Folder:** [Click here](https://github.com/sidhu2690/Project_CMS/tree/main/Task1)
+- **Ipynb Notebook:** [Click here](https://github.com/sidhu2690/Project_CMS/blob/main/Task1/electron-photon.ipynb)
+- **Model Weights:** [Click here](https://github.com/sidhu2690/Project_CMS/blob/main/Task1/model_weights.weights.h5)
 
 ## Model Overview
 
