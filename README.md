@@ -25,6 +25,9 @@ Binary classification problem for 2-channel images of Electrons and Photons.
 
 #### Loss curve
 ![image](https://github.com/sidhu2690/Project_CMS/assets/136654152/83c93933-7a75-4c8e-b355-141e8e5aafd8)
+| Accuracy Curve | Loss Curve |
+|:--------------:|:----------:|
+| ![Accuracy Curve](https://github.com/sidhu2690/Project_CMS/assets/136654152/aa798227-1a3e-4931-8fb0-1c0338bbf54f) | ![Loss Curve](https://github.com/sidhu2690/Project_CMS/assets/136654152/83c93933-7a75-4c8e-b355-141e8e5aafd8) |
 
 
 
