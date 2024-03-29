@@ -1,4 +1,4 @@
-# Common Task 1 Electron/Photon Classification
+# Common Task 1: Electron/Photon Classification
 
 ### Problem Description
 Binary classification problem for 2-channel images of Electrons and Photons.
@@ -25,6 +25,26 @@ Binary classification problem for 2-channel images of Electrons and Photons.
 
 #### Loss curve
 ![image](https://github.com/sidhu2690/Project_CMS/assets/136654152/83c93933-7a75-4c8e-b355-141e8e5aafd8)
+
+
+
+# Common Task 2: Quark-Gluon Classification
+
+### Problem Description
+Binary classification problem for Quark and Gluons.
+
+## Useful Links
+
+- **Project Folder:** [Click here](https://github.com/sidhu2690/Project_CMS/tree/main/task2)
+- **Datagen :** [Click here](https://github.com/sidhu2690/Project_CMS/blob/main/task2/datagenerator-task2.ipynb)
+
+## Model Overview
+
+### Optimizer
+
+### Results
+
+### Training curves
 
 
 
