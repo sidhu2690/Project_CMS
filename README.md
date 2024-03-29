@@ -1,4 +1,4 @@
-#Common Task 1 Electron/Photon Classification
+# Common Task 1 Electron/Photon Classification
 
 ### Problem Description
 Binary classification problem for 2-channel images of Electrons and Photons.
