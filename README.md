@@ -1,25 +1,33 @@
-# TASK-1 Electron/Photon Classification
+#Common Task 1 Electron/Photon Classification
+
+### Problem Description
+Binary classification problem for 2-channel images of Electrons and Photons.
 
 ## Useful Links
 
-- **Directory:** [Complete collection of project files](link_to_directory)
-- **Detailed Solution:** [Approach used](link_to_approach)
-- **Jupyter Notebook:** [Code and analysis in a Jupyter Notebook](link_to_notebook)
-- **PDF Version:** [PDF of the notebook](link_to_pdf)
-- **Model Weights:** [Model weights for replication and testing](link_to_model_weights)
+- **Project Folder:** [Complete collection of project files](https://github.com/sidhu2690/Project_CMS/tree/main/Task1)
+- **Ipynb Notebook:** [Code and analysis in a Jupyter Notebook](https://github.com/sidhu2690/Project_CMS/blob/main/Task1/electron-photon.ipynb)
+- **Model Weights:** [Model weights for replication and testing](https://github.com/sidhu2690/Project_CMS/blob/main/Task1/model_weights.weights.h5)
 
-## Results and Analysis
+## Model Overview
 
-I carefully monitored the training progress over 15 epochs, ensuring optimal performance without overfitting. Below is the conclusion of training:
+### Optimizer
+- **Optimizer:** ADAM
+- **Training Epochs:** 20 epochs
 
-- **VAL Loss:** 0.2678
-- **Val ROC-AUC:** 0.805
-- **Validation Accuracy:** 73.56%
-- **Test Loss:** 0.5398
-- **Test ROC-AUC:** 0.8044
-- **Test Accuracy:** 73.46%
+### Results
+- **Validation Accuracy:** 0.7366
+- **Validation AUC:** 0.8058
 
-Below are the Loss, accuracy, and ROC-AUC curves for the architectures, illustrating the point of overfitting and the epoch at which the models were saved.
+### Training curves
+#### Accuracy curve
+![image](https://github.com/sidhu2690/Project_CMS/assets/136654152/aa798227-1a3e-4931-8fb0-1c0338bbf54f)
 
-[Include Loss, accuracy, and ROC-AUC curves here]
+#### Loss curve
+![image](https://github.com/sidhu2690/Project_CMS/assets/136654152/83c93933-7a75-4c8e-b355-141e8e5aafd8)
+
+
+
+
+
 
