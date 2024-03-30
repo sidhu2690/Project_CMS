@@ -81,7 +81,8 @@ Predict the mass particle based on image [X_jet (Track pT, DZ and D0, ECAL)] and
 
 - **Project Folder:** [Click here](https://github.com/sidhu2690/Project_CMS/tree/main/Task-3A)
 - **Ipynb Notebook:** [Click here](https://github.com/sidhu2690/Project_CMS/blob/main/Task-3A/task-3a.ipynb)
-- 
+- **Model Weights:** [Click here](https://drive.google.com/file/d/12p0ztAhGhkXwVx_Mvai9BPYD5ZjWZnbC/view?usp=sharing)
+
 ## Model Overview
 
 ### Results
@@ -98,6 +99,7 @@ Predict the mass particle based on image [X_jet (Track pT, DZ and D0, ECAL)] and
 ### Training curves
 ![Loss Curve](https://github.com/sidhu2690/Project_CMS/assets/136654152/7749e1b0-cafd-47b2-b106-5c785a99fb4d)
 
+### Modal architecture
 ![Combined Model](https://github.com/sidhu2690/Project_CMS/raw/main/Task-3A/combined_model.png)
 
 
