@@ -97,8 +97,6 @@ Predict the mass particle based on image [X_jet (Track pT, DZ and D0, ECAL)] and
 | Validation AUC      | 0.8058 |
 
 ### Training curves
-| Accuracy Curve | Loss Curve |
-|:--------------:|:----------:|
 ![Loss Curve](https://github.com/sidhu2690/Project_CMS/assets/136654152/7749e1b0-cafd-47b2-b106-5c785a99fb4d)
 
 
