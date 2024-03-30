@@ -91,10 +91,15 @@ Predict the mass particle based on image [X_jet (Track pT, DZ and D0, ECAL)] and
 
 
 ### Results
-| Metric            | Value  |
-|-------------------|--------|
-| Validation Accuracy | 0.7366 |
-| Validation AUC      | 0.8058 |
+
+| Metric               | Value                |
+|----------------------|----------------------|
+| Train Loss           | 687.8632             |
+| Validation Loss      | 1597.4897            |
+| Average Loss         | 649.5648193359375   |
+| MSE on Test Dataset  | 1626.389115844128   |
+| MAE on Test Dataset  | 32.22285861178238   |
+
 
 ### Training curves
 ![Loss Curve](https://github.com/sidhu2690/Project_CMS/assets/136654152/7749e1b0-cafd-47b2-b106-5c785a99fb4d)
