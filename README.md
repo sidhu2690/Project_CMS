@@ -47,10 +47,10 @@ Binary classification problem for Quark and Gluons.
 | Loss     | 0.42        |
 
 #### Accuracy Curve
-![VGG-12 Accuracy Curve](path/to/vgg_accuracy_curve.png)
+![VGG-12 Accuracy Curve](![image](https://github.com/sidhu2690/Project_CMS/assets/136654152/0245023f-4c9a-4f58-a25b-ee814cb4730a))
 
 #### Loss Curve
-![VGG-12 Loss Curve](path/to/vgg_loss_curve.png)
+![VGG-12 Loss Curve](![image](https://github.com/sidhu2690/Project_CMS/assets/136654152/638f80e5-1299-41a4-b6d7-4bca829b3dc7))
 
 ### LeNet
 
@@ -61,10 +61,10 @@ Binary classification problem for Quark and Gluons.
 | Loss     | 0.62        |
 
 #### Accuracy Curve
-![LeNet Accuracy Curve](path/to/lenet_accuracy_curve.png)
+![LeNet Accuracy Curve](![image](https://github.com/sidhu2690/Project_CMS/assets/136654152/13fff2f2-b1c1-4776-b153-5f15ab2f418d))
 
 #### Loss Curve
-![LeNet Loss Curve](path/to/lenet_loss_curve.png)
+![LeNet Loss Curve](![image](https://github.com/sidhu2690/Project_CMS/assets/136654152/19e1a606-bc9c-41c0-a37a-3042bd24b1dc))
 
 
 ### Optimizer
