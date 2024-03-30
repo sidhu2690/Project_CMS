@@ -99,6 +99,7 @@ Predict the mass particle based on image [X_jet (Track pT, DZ and D0, ECAL)] and
 ### Training curves
 ![Loss Curve](https://github.com/sidhu2690/Project_CMS/assets/136654152/7749e1b0-cafd-47b2-b106-5c785a99fb4d)
 
+![Combined Model](https://github.com/sidhu2690/Project_CMS/raw/main/Task-3A/combined_model.png)
 
 
 
