@@ -12,12 +12,15 @@ Binary classification problem for 2-channel images of Electrons and Photons.
 ## Model Overview
 
 ### Optimizer
-- **Optimizer:** ADAM
+- **Optimizer:** ADAM with LR on plateau
 - **Training Epochs:** 20 epochs
 
+
 ### Results
-- **Validation Accuracy:** 0.7366
-- **Validation AUC:** 0.8058
+| Metric            | Value  |
+|-------------------|--------|
+| Validation Accuracy | 0.7366 |
+| Validation AUC      | 0.8058 |
 
 ### Training curves
 | Accuracy Curve | Loss Curve |
@@ -36,43 +39,39 @@ Binary classification problem for Quark and Gluons.
 - **Project Folder:** [Click here](https://github.com/sidhu2690/Project_CMS/tree/main/task2)
 - **Datagen :** [Click here](https://github.com/sidhu2690/Project_CMS/blob/main/task2/datagenerator-task2.ipynb)
 
-## Model Performance
+## Models
 
 ### VGG-12
 
-#### Performance Metrics
-| Metric   | Value       |
-|----------|-------------|
-| Accuracy | 0.85        |
-| Loss     | 0.42        |
+### Training curves
+| Accuracy Curve | Loss Curve |
+|:--------------:|:----------:|
+| ![Accuracy Curve](https://github.com/sidhu2690/Project_CMS/assets/136654152/0245023f-4c9a-4f58-a25b-ee814cb4730a) | ![Loss Curve](https://github.com/sidhu2690/Project_CMS/assets/136654152/638f80e5-1299-41a4-b6d7-4bca829b3dc7) |
 
-#### Accuracy Curve
-![VGG-12 Accuracy Curve](![image](https://github.com/sidhu2690/Project_CMS/assets/136654152/0245023f-4c9a-4f58-a25b-ee814cb4730a))
+### Results
+| Metric            | Value  |
+|-------------------|--------|
+| Validation Accuracy | 0.7366 |
+| Validation AUC      | 0.8058 |
 
-#### Loss Curve
-![VGG-12 Loss Curve](![image](https://github.com/sidhu2690/Project_CMS/assets/136654152/638f80e5-1299-41a4-b6d7-4bca829b3dc7))
 
 ### LeNet
 
-#### Performance Metrics
-| Metric   | Value       |
-|----------|-------------|
-| Accuracy | 0.75        |
-| Loss     | 0.62        |
+### Training curves
+| Accuracy Curve | Loss Curve |
+|:--------------:|:----------:|
+| ![Accuracy Curve](https://github.com/sidhu2690/Project_CMS/assets/136654152/13fff2f2-b1c1-4776-b153-5f15ab2f418d) | ![Loss Curve](https://github.com/sidhu2690/Project_CMS/assets/136654152/19e1a606-bc9c-41c0-a37a-3042bd24b1dc) |
 
-#### Accuracy Curve
-![LeNet Accuracy Curve](![image](https://github.com/sidhu2690/Project_CMS/assets/136654152/13fff2f2-b1c1-4776-b153-5f15ab2f418d))
-
-#### Loss Curve
-![LeNet Loss Curve](![image](https://github.com/sidhu2690/Project_CMS/assets/136654152/19e1a606-bc9c-41c0-a37a-3042bd24b1dc))
+### Results
+| Metric            | Value  |
+|-------------------|--------|
+| Validation Accuracy | 0.7366 |
+| Validation AUC      | 0.8058 |
 
 
 ### Optimizer
-
-### Results
-
-### Training curves
-
+- **Optimizer:** ADAM with LR on plateau
+- **Training Epochs:** 20 epochs
 
 
 
