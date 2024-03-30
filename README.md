@@ -77,7 +77,7 @@ Binary classification problem for Quark and Gluons.
 # Task 3A: Mass regression
 
 ### Problem Description
-Predict the mass of a particle-based on image features (X_jet [Track pT, DZ, and D0], ECAL) and array features (ieta, iphi, and pt)
+Predict the mass of a particle based on image features (X_jet [Track pT, DZ and D0, ECAL]) and array features (ieta, iphi, and pt)
 ## Useful Links
 
 - **Project Folder:** [Click here](https://github.com/sidhu2690/Project_CMS/tree/main/Task-3A)
