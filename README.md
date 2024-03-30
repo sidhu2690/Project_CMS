@@ -41,6 +41,10 @@ Binary classification problem for Quark and Gluons.
 
 ## Models
 
+### Optimizer
+- **Optimizer:** ADAM with LR on plateau
+- **Training Epochs:** 20 epochs
+
 ### VGG-12
 
 ### Training curves
@@ -78,12 +82,7 @@ Predict the mass particle based on image [X_jet (Track pT, DZ and D0, ECAL)] and
 - **Project Folder:** [Click here](https://github.com/sidhu2690/Project_CMS/tree/main/Task-3A)
 - **Ipynb Notebook:** [Click here](https://github.com/sidhu2690/Project_CMS/blob/main/Task1/electron-photon.ipynb)
 - 
-## Model Overview
-
-### Optimizer
-- **Optimizer:** ADAM with LR on plateau
-- **Training Epochs:** 20 epochs
-
+## Model overview
 
 ### Results
 
