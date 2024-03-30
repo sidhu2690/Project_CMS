@@ -38,6 +38,7 @@ Binary classification problem for Quark and Gluons.
 
 - **Project Folder:** [Click here](https://github.com/sidhu2690/Project_CMS/tree/main/task2)
 - **Datagen :** [Click here](https://github.com/sidhu2690/Project_CMS/blob/main/task2/datagenerator-task2.ipynb)
+- **Model Weights:** [Click here](https://drive.google.com/drive/folders/1PjOxWEJkCFh_yohSaDDh0QMNQEYucv7a?usp=sharing)
 
 ## Models
 
