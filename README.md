@@ -51,8 +51,8 @@ Binary classification problem for Quark and Gluons.
 ### Results
 | Metric            | Value  |
 |-------------------|--------|
-| Validation Accuracy | 0.7366 |
-| Validation AUC      | 0.8058 |
+| Validation Accuracy | 0.7282 |
+| Validation AUC      | 0.7929 |
 
 
 ### LeNet
@@ -65,8 +65,8 @@ Binary classification problem for Quark and Gluons.
 ### Results
 | Metric            | Value  |
 |-------------------|--------|
-| Validation Accuracy | 0.7366 |
-| Validation AUC      | 0.8058 |
+| Validation Accuracy | 0.7229 |
+| Validation AUC      | 0.7871 |
 
 
 ### Optimizer
