@@ -80,9 +80,9 @@ Predict the mass particle based on image [X_jet (Track pT, DZ and D0, ECAL)] and
 ## Useful Links
 
 - **Project Folder:** [Click here](https://github.com/sidhu2690/Project_CMS/tree/main/Task-3A)
-- **Ipynb Notebook:** [Click here](https://github.com/sidhu2690/Project_CMS/blob/main/Task1/electron-photon.ipynb)
+- **Ipynb Notebook:** [Click here](https://github.com/sidhu2690/Project_CMS/blob/main/Task-3A/task-3a.ipynb)
 - 
-## Model overview
+## Model Overview
 
 ### Results
 
