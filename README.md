@@ -74,6 +74,36 @@ Binary classification problem for Quark and Gluons.
 - **Training Epochs:** 20 epochs
 
 
+# Task 3A: Mass regression
+
+### Problem Description
+Predict the mass particle based on image [X_jet (Track pT, DZ and D0, ECAL)] and array features [ieta, iphi and pt]
+## Useful Links
+
+- **Project Folder:** [Click here](https://github.com/sidhu2690/Project_CMS/tree/main/Task-3A)
+- **Ipynb Notebook:** [Click here](https://github.com/sidhu2690/Project_CMS/blob/main/Task1/electron-photon.ipynb)
+- 
+## Model Overview
+
+### Optimizer
+- **Optimizer:** ADAM with LR on plateau
+- **Training Epochs:** 20 epochs
+
+
+### Results
+| Metric            | Value  |
+|-------------------|--------|
+| Validation Accuracy | 0.7366 |
+| Validation AUC      | 0.8058 |
+
+### Training curves
+| Accuracy Curve | Loss Curve |
+|:--------------:|:----------:|
+| ![Accuracy Curve](https://github.com/sidhu2690/Project_CMS/assets/136654152/aa798227-1a3e-4931-8fb0-1c0338bbf54f) | ![Loss Curve](https://github.com/sidhu2690/Project_CMS/assets/136654152/83c93933-7a75-4c8e-b355-141e8e5aafd8) |
+
+
+
+
 
 
 
