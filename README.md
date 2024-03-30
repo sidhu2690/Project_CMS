@@ -69,11 +69,6 @@ Binary classification problem for Quark and Gluons.
 | Validation AUC      | 0.7871 |
 
 
-### Optimizer
-- **Optimizer:** ADAM with LR on plateau
-- **Training Epochs:** 20 epochs
-
-
 # Task 3A: Mass regression
 
 ### Problem Description
