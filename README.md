@@ -36,7 +36,36 @@ Binary classification problem for Quark and Gluons.
 - **Project Folder:** [Click here](https://github.com/sidhu2690/Project_CMS/tree/main/task2)
 - **Datagen :** [Click here](https://github.com/sidhu2690/Project_CMS/blob/main/task2/datagenerator-task2.ipynb)
 
-## Model Overview
+## Model Performance
+
+### VGG-12
+
+#### Performance Metrics
+| Metric   | Value       |
+|----------|-------------|
+| Accuracy | 0.85        |
+| Loss     | 0.42        |
+
+#### Accuracy Curve
+![VGG-12 Accuracy Curve](path/to/vgg_accuracy_curve.png)
+
+#### Loss Curve
+![VGG-12 Loss Curve](path/to/vgg_loss_curve.png)
+
+### LeNet
+
+#### Performance Metrics
+| Metric   | Value       |
+|----------|-------------|
+| Accuracy | 0.75        |
+| Loss     | 0.62        |
+
+#### Accuracy Curve
+![LeNet Accuracy Curve](path/to/lenet_accuracy_curve.png)
+
+#### Loss Curve
+![LeNet Loss Curve](path/to/lenet_loss_curve.png)
+
 
 ### Optimizer
 
